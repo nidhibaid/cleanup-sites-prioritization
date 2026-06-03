@@ -1,0 +1,13 @@
+[project]
+name = "cleanup-sites-prioritization"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "geopandas",
+    "polars",
+    "pandas",
+    "matplotlib",
+    "seaborn"
+]
